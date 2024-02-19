@@ -11,4 +11,4 @@ rom keeper gui.py
 
 v2.0: Windows GUI based. basic features.
 
-v2.1: Windows GUI baaed. 
+v2.1: Windows GUI baaed. dark theme, better button layouts, larger and consistent windows.
