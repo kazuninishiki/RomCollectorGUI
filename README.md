@@ -1,3 +1,5 @@
+![image](https://github.com/kazuninishiki/RomCollectorGUI/assets/21254414/5dc5c59a-71b1-4651-a421-97b73d63e913)
+
 # RomCollectorGUI
 A windows GUI program written in python to make selecting and sorting roms easy.
 
